@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721511005916",
+    "project_id": "dsgp-819bb",
+    "storage_bucket": "dsgp-819bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721511005916:android:e78f141d6a228dd5b37e19",
+        "android_client_info": {
+          "package_name": "co.group_11.ds_group_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721511005916-4hol6nse25af0ghoga92ho9mtniap8vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHt35QR6g9L31KCT65QNL0IAuyBKZFZUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721511005916-4hol6nse25af0ghoga92ho9mtniap8vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
